@@ -1,0 +1,159 @@
+.bgimg{
+    background-image: url(./IMG/Vector\ 1.png);
+    background-repeat: no-repeat;
+  
+    background-position-x: right;
+  
+}
+.img1{
+    position: relative;
+}
+.navbar a{
+    color: #331B3B;
+    font-weight: bold;
+}
+.ellipse{
+    position: absolute;
+    left: 0;
+    top: 150px;
+}
+.section2{
+    background-image: url(./IMG/bkimg2.png);
+    background-size: cover; 
+   
+    background-repeat: no-repeat;
+   overflow: hidden;
+    background-position-x: left;
+}
+.logo{
+    background-color: #FFDED4;
+    width:52px ;
+    height:48px ;
+    border-radius: 10px;
+    margin: 10px;
+}
+.logo1{
+    height: 30px;
+    width: 30px;
+   margin: 10px;
+}
+.logo2{
+    background-color: #FFEED4;
+    width:52px ;
+    height:48px ;
+    border-radius: 10px;
+    margin: 10px
+}
+.logo3{
+    background-color: #D4F0FF;
+    width:52px ;
+    height:48px ;
+    border-radius: 10px;
+    margin: 10px
+}
+.logo4{
+    background-color: #FFD4D4;
+    width:52px ;
+    height:48px ;
+    border-radius: 10px;
+    margin: 10px
+}
+.card{
+    width: 308px;
+    margin: 10px;
+}
+.allcard{
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.arrow{
+    
+    align-content: end;
+}
+
+.section3{
+    margin-top: 100px;
+}
+.section3-pic{
+    position: relative;
+   
+}
+.section3-child{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.section3-child1{
+    position: absolute;
+    top: -230px;
+    left: -90px;
+}
+.content1{
+    margin-top: 120px;
+    padding: 50px;
+}
+.section4{
+    background-image: url(./IMG/Rectangle\ 13.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    overflow: hidden;
+    background-position-x: right;
+    margin-top: 100px;
+}
+.s4head{
+    justify-content: space-between;
+}
+.cardbody{
+    justify-content: space-between;
+}
+.s4slide{
+    margin-left: 200px;
+    margin-bottom: 50px;
+
+}
+.s4card{
+    margin: 20px;
+    width: 425px;
+}
+.section5{
+    margin-top: 100px;
+}
+.cardimg2{
+    height: 64px;
+    width: 64px;
+}
+.sec5{
+    justify-content: center;
+    margin-top: 50px;
+}
+.s5card{
+    width: 448px;
+   
+}
+.sec6{
+    background-image: url(./IMG/Rectangle\ 39.png);
+    background-repeat: no-repeat;
+    
+    background-size: cover; 
+    overflow: hidden;
+    background-position-x: left;
+    margin-top: 100px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.s6text{
+    width: 484px;
+    color: white;
+    padding: 20px;
+    margin: 25px;
+    
+
+}
+.s6text input{
+    outline: none;
+    background: none;
+}
+.s6text input::placeholder{
+    color: white;
+}
